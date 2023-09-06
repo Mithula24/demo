@@ -1,0 +1,69 @@
+h1{
+    color:purple;
+    text-align:center; 
+  }
+
+  .card{
+    background-color:rgb(153, 131, 153);
+    height:550px;
+    width:20%;
+    margin:2%
+  }
+
+  .brown{
+    background-color:rgb(41, 204, 82);
+     
+  }
+
+
+  #blue{
+    background-color:rgb(221, 123, 12);
+    overflow: scroll;
+  }
+
+  .card img{
+    height:150px;
+    width:100%
+
+  }
+
+  #maindiv{
+    width:100%;
+    display:flex;
+    flex-wrap: wrap;
+
+  }
+
+  .flashcard{
+    width:60%;
+    height: 200px;
+    background-color: rgb(131, 58, 92);
+    margin: 10%;
+    display:flex;
+    
+
+  }
+
+  #imgdiv{
+    width:20%;
+    
+    
+  }
+
+  #imgdiv img{
+    width:100%;
+    height: 100%
+  }
+
+  #textdiv{ 
+    width:60%;
+    overflow: scroll;
+    
+  }
+
+
+
+
+
+
+

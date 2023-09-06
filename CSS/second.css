@@ -1,0 +1,28 @@
+h1
+{
+  color:red;
+  text-align:center;
+}  
+
+.maindiv{
+    background-color:purple;
+    height:550px;
+    width:20%;
+    margin:5%
+
+}
+
+#imgdiv{
+  height:300px;
+    
+}  
+
+#imgdiv img{
+    height:100%;
+    width:100%
+}
+
+#textdiv{
+   height:250px;
+   overflow:scroll;
+}
